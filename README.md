@@ -15,11 +15,14 @@
 ---
 
 ## 🚀 Proyectos Destacados
-| Proyecto                                | Descripción                                                                    | Tech Stack                   |
-|-----------------------------------------|--------------------------------------------------------------------------------|------------------------------|
-| [Sweet Lift Taxi](https://github.com/LuisT0/sweet-lift-taxi)    | Predicción de demanda horaria de taxis en aeropuertos (RMSE ≤ 48)             | Python · pandas · scikit-learn · Streamlit |
-| [iKambio](https://github.com/LuisT0/iKambio)                  | Modelo de ML para cotizar precios de iPhone usados                             | Python · CatBoost · Streamlit            |
-| [LAPD Crime Data Analysis](https://github.com/LuisT0/LAPD_data_crime_analysis) | EDA de datos de crímenes en Los Ángeles                           | Python · pandas · Plotly · sklearn       |
+
+| Proyecto                         | Descripción                                               | Tecnologías                          | Repositorio                                                                 | Origen         |
+|----------------------------------|-----------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------|----------------|
+| **iKambio**                      | Modelo ML para cotizar precios de iPhones usados          | Python · CatBoost · Streamlit        | [iKambio](https://github.com/LuisT0/iKambio)                                 | Autodidacta    |
+| **LAPD Crime Data Analysis**     | Análisis y modelado de datos de crimen en Los Ángeles     | Python · pandas · Plotly             | [LAPD Crime Data Analysis](https://github.com/LuisT0/LAPD_data_crime_analysis) | Autodidacta    |
+| **Rusty Bargain**                | Predicción del valor de mercado de autos usados           | Python · pandas · scikit-learn       | [Rusty Bargain](https://github.com/LuisT0/RustyBargain)                       | TripleTen LatAm|
+| **Sweet Lift Taxi**              | Pronóstico de demanda horaria de taxis en aeropuertos     | Python · pandas · scikit-learn · Streamlit | [Sweet Lift Taxi](https://github.com/LuisT0/sweet-lift-taxi)                 | TripleTen LatAm|
+
 
 > 🔗 Más en mi [GitHub](https://github.com/LuisT0)? ¡Échale un ojo a otras carpetas y notebooks!
 
