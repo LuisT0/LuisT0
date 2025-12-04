@@ -1,44 +1,54 @@
-# ¡Hola, soy Luis Torres! 👋
+# ¡Hola, soy Luis Torres!👨🏻‍💻
 
-**Data Scientist & Licenciado en Ciencias Ambientales**  
-🌱 Curioso • Creativo • Apasionado por los datos y la sostenibilidad
+### *Junior Data Scientist | Python · SQL · ML · Streamlit · Power BI*  
+
+Apasionionado por transformar datos en decisiones reales. Combino ciencia ambiental, machine learning y visualización para construir soluciones que sí funcionan en el mundo real.
 
 ---
 
-## ⚡️ Sobre mí
-- 🎓 Graduado en Ciencias Ambientales (UNAM).
-- 🤖 En mis ratos libres construyo modelos de Machine Learning en Python.
-- 🔍 Experto en **Análisis de Ciclo de Vida (ACV)** y cuantificación de impactos ambientales.
-- 📊 Me encanta transformar datos en historias de impacto y dashboards con Streamlit.
-- 📚 Siempre aprendiendo: SQL, CatBoost, LightGBM, series temporales, y más.
+## 👋 Sobre mí
+
+- 🎓 Licenciado en Ciencias Ambientales (UNAM) con especialización en **Data Science y Analytics**.  
+- 🐍 Trabajo con **Python**, **SQL**, **machine learning**, **visualización** y **despliegue de apps**.  
+- 📊 Me enfoco en *predicción, clasificación, churn, riesgo, visión computacional* y storytelling con dashboards.  
+- 🌱 Perspectiva ambiental que aporta una visión sistémica y sostenible.  
+- 🚀 Siempre aprendiendo, siempre construyendo.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto                         | Descripción                                               | Tecnologías                          | Repositorio                                                                 | Origen         |
-|----------------------------------|-----------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------|----------------|
-| **iKambio**                      | Modelo ML para cotizar precios de iPhones usados          | Python · CatBoost · Streamlit        | [iKambio](https://github.com/LuisT0/iKambio)                                 | Autodidacta    |
-| **LAPD Crime Data Analysis**     | Análisis y modelado de datos de crimen en Los Ángeles     | Python · pandas · Plotly             | [LAPD Crime Data Analysis](https://github.com/LuisT0/LAPD_data_crime_analysis) | Autodidacta    |
-| **Rusty Bargain**                | Predicción del valor de mercado de autos usados           | Python · pandas · scikit-learn       | [Rusty Bargain](https://github.com/LuisT0/RustyBargain)                       | TripleTen LatAm|
-| **Sweet Lift Taxi**              | Pronóstico de demanda horaria de taxis en aeropuertos     | Python · pandas · scikit-learn · Streamlit | [Sweet Lift Taxi](https://github.com/LuisT0/sweet-lift-taxi)                 | TripleTen LatAm|
-
-
-> 🔗 Más en mi [GitHub](https://github.com/LuisT0)? ¡Échale un ojo a otras carpetas y notebooks!
+| Proyecto | Descripción | Tecnologías | Repo |
+|---------|-------------|-------------|------|
+| **iPhone Review Dashboard** | Análisis de +3,000 reseñas de Amazon y creación de un dashboard interactivo en Looker Studio. Incluye limpieza avanzada, categorización y análisis de sentimiento. | Python · Pandas · EDA · Looker Studio | _(añade link)_ |
+| **Mood2Movie** | Web app en Streamlit que recomienda películas según el estado de ánimo del usuario usando filtros inteligentes y análisis de datos. | Python · Streamlit · Análisis de datos | _(añade link)_ |
+| **Predicciones Metro CDMX** | Modelos de forecasting para predecir afluencia diaria en el Metro CDMX. Incluye comparación entre LSTM, Naive-7 y Average-4w, más dashboard en Power BI. | Python · ML · Power BI · Time Series | _(añade link)_ |
+| **GreenVision** | Modelo de visión computacional para clasificar residuos sólidos urbanos. Proyecto enfocado en sostenibilidad con pipeline completo en Jupyter. | Python · Computer Vision · ML | _(añade link)_ |
+| **Desafío Agua CDMX** | App multipágina en Streamlit con análisis exploratorio sobre consumo de agua y zonas críticas en CDMX. | Python · Streamlit · Visualización | _(añade link)_ |
 
 ---
 
-## 🛠️ Tech & Skills
-- **Lenguajes:** Python, SQL  
-- **ML & DS:** pandas, NumPy, scikit-learn, CatBoost, LightGBM  
-- **Visualización:** Matplotlib, Plotly, Streamlit  
-- **Ambiental:** ACV, GWP, Educación ambiental, Gestión de RSU  
+## 📦 Tech Stack
+
+**Lenguajes:** Python · SQL  
+**Librerías:** Pandas · NumPy · Scikit-learn · TensorFlow (básico)  
+**Herramientas:** Streamlit · Power BI · Looker Studio  
+**Infraestructura:** FastAPI · Docker  
+**Otros:** Git · Jupyter · Data Storytelling
 
 ---
 
-## 📫 Contáctame
-- 📩 Email: luisantoniotv97@hotmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/luis-antonio-torres-villalobos](https://www.linkedin.com/in/luis-antonio-torres-villalobos/)  
+## 📬 Contacto
+
+📧 **luisantoniotv97@hotmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/luis-antonio-torres-villalobos/
+🐙 **GitHub:** https://github.com/LuisT0  
+
 ---
 
-*“Mantente hambriento de datos, mantente insensato por el cambio sostenible.” 🍃✨
+## ⭐ Cómo trabajo
+
+- Proyectos **end-to-end**: desde limpieza hasta despliegue.  
+- Priorizo claridad, orden y reproducibilidad.  
+- Me gusta construir cosas funcionales, accesibles y visualmente atractivas.
+
