@@ -1,111 +1,105 @@
-# 👋 Hi, I'm Luis Antonio Torres
+# 👋 Luis Antonio Torres
 
-### 🧠 Data Scientist Jr | 📊 Data Analyst Jr | 🌱 Environmental Science Background
+🌑 *Data Science · Modelado · Storytelling*  
 
-Welcome to my GitHub.  
-I design **data-driven solutions** that turn complex datasets into **clear insights, predictive models, and decision-ready dashboards**.
-
-With a background in **Environmental Sciences** and formal training in **Data Science**, I bring an interdisciplinary perspective that blends **analytics, business thinking, and storytelling**.
+🧠 Data Scientist Jr  
+🌱 Background en Ciencias Ambientales  
 
 ---
 
-## 🚀 What I Do
+## ✨ Bienvenido a mi GitHub
 
-- 📈 Analyze and transform data into **actionable insights**
-- 🤖 Build **predictive models** for real-world decision making
-- 📊 Design **interactive dashboards** for technical and non-technical stakeholders
-- 🌍 Apply data science to **social, environmental, and business challenges**
+Aquí desarrollo **proyectos de ciencia de datos** enfocados en resolver problemas reales mediante **modelos predictivos, análisis profundo y comunicación clara de insights**.
 
----
-
-## 🧠 Core Skills & Tools
-
-**Programming & Data**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- SQL
-- Exploratory Data Analysis & Feature Engineering
-
-**Visualization & Storytelling**
-- Streamlit
-- Looker Studio / Power BI
-- Matplotlib, Seaborn, Plotly
-
-**Machine Learning**
-- Classification & Regression
-- Model validation & experimentation
-- Intro to causal inference & risk modeling
-
-**Deployment & Workflow**
-- Git & GitHub
-- APIs (FastAPI)
-- Docker (intro)
+El análisis y el storytelling no son un rol aparte, sino una **parte esencial del proceso de ciencia de datos**: entender el problema, explorar los datos y traducir resultados en decisiones.
 
 ---
 
-## ⭐ Featured Projects
+## 🧭 Enfoque como Data Scientist
 
-### 📱 iPhone Review Dashboard
-**Interactive dashboard for analyzing iPhone reviews and market signals**
-
-- Cleaned and analyzed large-scale review data  
-- Built dashboards focused on **user sentiment and product insights**
-- Designed for **business and product decision-making**
-
-🔗 *Repository:* https://github.com/LuisT0  
-*(Dashboard project)*
+📐 Comprender el problema antes de modelar  
+🤖 Construir modelos útiles, no solo precisos  
+📊 Comunicar resultados de forma clara y visual  
+🌍 Aplicar ciencia de datos a negocio, sociedad y sostenibilidad  
 
 ---
 
-### 🌱 GreenVision — Waste Classification Model
-**Computer vision model for automated waste classification**
+## 🧠 Stack principal
 
-- Built and trained a CNN using TensorFlow/Keras  
-- Deployed the model via **FastAPI + Docker**
-- Designed as a scalable tool for waste management scenarios
+### Lenguajes & Datos
+![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql)
 
-🔗 *Repository:* https://github.com/LuisT0/greenvision
+### Ciencia de Datos & ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat&logo=tensorflow)
 
----
+### Visualización & Storytelling
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat&logo=streamlit)
+![Looker%20Studio](https://img.shields.io/badge/Looker%20Studio-111111?style=flat&logo=google)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-111111?style=flat&logo=powerbi)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=flat&logo=plotly)
 
-### 💧 Water Challenge — Mexico City
-**Data analysis project focused on water availability and risk in CDMX**
-
-- Exploratory analysis of water-related datasets
-- Identified patterns and risk indicators
-- Framed insights around **public policy and sustainability**
-
-🔗 *Repository:* https://github.com/LuisT0  
-*(Water challenge project)*
-
----
-
-## 🎯 Background & Experience
-
-- 🎓 **Environmental Sciences (UNAM)**  
-  Specialization in sustainability and life cycle analysis
-
-- 📚 **Data Science Bootcamp (TripleTen)**  
-  Machine learning, statistics, SQL, and end-to-end projects
-
-- 🧪 Experience working with **real datasets**, business problems, and executive-level insights
+### Workflow & Deploy
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-111111?style=flat&logo=huggingface)
 
 ---
 
-## 🤝 Let’s Connect
+## ⭐ Proyectos destacados
 
-I’m currently open to **Data Analyst Jr / Data Scientist Jr** opportunities.
+### 📱 iPhone Review Dashboard  
+*EDA y visualización como parte del proceso de ciencia de datos*
 
-- 💼 LinkedIn: *(add your link here)*
-- 📬 Email: luisantoniotv97@hotmail.com
+- Limpieza y exploración de grandes volúmenes de datos  
+- Análisis de sentimiento y señales de mercado  
+- Comunicación de insights para decisiones de producto  
 
-Thanks for stopping by 👋  
-Feel free to explore my projects or reach out!
+🔗 https://github.com/LuisT0/iphone_review_dashboard
 
 ---
 
-## ⭐ Cómo trabajo
+### 🌱 GreenVision  
+*Clasificación automática de residuos con visión por computadora*
 
-- Proyectos **end-to-end**: desde limpieza hasta despliegue.  
-- Priorizo claridad, orden y reproducibilidad.  
-- Me gusta construir cosas funcionales, accesibles y visualmente atractivas.
+- Modelo CNN entrenado con TensorFlow / Keras  
+- Pipeline completo: datos → modelo → despliegue  
+- FastAPI + Docker para uso en escenarios reales  
 
+🔗 https://github.com/LuisT0/greenvision  
+
+---
+
+### 💧 Desafío Agua — CDMX  
+*Ciencia de datos aplicada a riesgo hídrico y sostenibilidad*
+
+- Análisis exploratorio de datos relacionados con agua  
+- Identificación de patrones y zonas de riesgo  
+- Enfoque en impacto social y políticas públicas  
+
+🔗 https://github.com/LuisT0/desafio_agua_cdmx
+
+---
+
+## 🎓 Background
+
+🎓 **Ciencias Ambientales — UNAM**  
+Pensamiento sistémico · Sostenibilidad · Análisis de ciclo de vida  
+
+📚 **Bootcamp de Ciencia de Datos — TripleTen**  
+Machine Learning · Estadística · SQL · Proyectos end-to-end  
+
+---
+
+## 🤝 Conectemos
+
+📌 Abierto a oportunidades como **Data Scientist Jr**
+
+📬 luisantoniotv97@hotmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/luis-antonio-torres-villalobos/
+
+---
+
+🖤 *Ciencia de datos aplicada a problemas reales.*
