@@ -15,15 +15,6 @@ El análisis y el storytelling no son un rol aparte, sino una **parte esencial d
 
 ---
 
-## 🧭 Enfoque como Data Scientist
-
-📐 Comprender el problema antes de modelar  
-🤖 Construir modelos útiles, no solo precisos  
-📊 Comunicar resultados de forma clara y visual  
-🌍 Aplicar ciencia de datos a negocio, sociedad y sostenibilidad  
-
----
-
 ## 🧠 Stack principal
 
 ### Lenguajes & Datos
@@ -45,6 +36,15 @@ El análisis y el storytelling no son un rol aparte, sino una **parte esencial d
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker)
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-111111?style=flat&logo=huggingface)
+
+---
+
+## 🧭 Enfoque como Data Scientist
+
+📐 Comprender el problema antes de modelar  
+🤖 Construir modelos útiles, no solo precisos  
+📊 Comunicar resultados de forma clara y visual  
+🌍 Aplicar ciencia de datos a negocio, sociedad y sostenibilidad  
 
 ---
 
