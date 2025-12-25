@@ -1,48 +1,105 @@
-# ¡Hola, soy Luis Torres!👨🏻‍💻
+# 👋 Hi, I'm Luis Antonio Torres
 
-### *Junior Data Scientist | Python · SQL · ML · Streamlit · Power BI*  
+### 🧠 Data Scientist Jr | 📊 Data Analyst Jr | 🌱 Environmental Science Background
 
-Apasionionado por transformar datos en decisiones reales. Combino ciencia ambiental, machine learning y visualización para construir soluciones que sí funcionan en el mundo real.
+Welcome to my GitHub.  
+I design **data-driven solutions** that turn complex datasets into **clear insights, predictive models, and decision-ready dashboards**.
 
----
-
-## 👋 Sobre mí
-
-- 🎓 Licenciado en Ciencias Ambientales (UNAM) con especialización en **Data Science y Analytics**.  
-- 🐍 Trabajo con **Python**, **SQL**, **machine learning**, **visualización** y **despliegue de apps**.  
-- 📊 Me enfoco en *predicción, clasificación, churn, riesgo, visión computacional* y storytelling con dashboards.  
-- 🌱 Perspectiva ambiental que aporta una visión sistémica y sostenible.  
-- 🚀 Siempre aprendiendo, siempre construyendo.
+With a background in **Environmental Sciences** and formal training in **Data Science**, I bring an interdisciplinary perspective that blends **analytics, business thinking, and storytelling**.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 What I Do
 
-| Proyecto | Descripción | Tecnologías | Repo |
-|---------|-------------|-------------|------|
-| **iPhone Review Dashboard** | Análisis de +3,000 reseñas de Amazon y creación de un dashboard interactivo en Looker Studio. Incluye limpieza avanzada, categorización y análisis de sentimiento. | Python · Pandas · EDA · Looker Studio | _https://github.com/LuisT0/iphone_review_dashboard_ |
-| **Mood2Movie** | Web app en Streamlit que recomienda películas según el estado de ánimo del usuario usando filtros inteligentes y análisis de datos. | Python · Streamlit · Análisis de datos | _https://github.com/LuisT0/mood2movie_ |
-| **Predicciones Metro CDMX** | Modelos de forecasting para predecir afluencia diaria en el Metro CDMX. Incluye comparación entre LSTM, Naive-7 y Average-4w, más dashboard en Power BI. | Python · ML · Power BI · Time Series | _https://github.com/LuisT0/predicciones_metro_cdmx_ |
-| **GreenVision** | Modelo de visión computacional para clasificar residuos sólidos urbanos. Proyecto enfocado en sostenibilidad con pipeline completo en Jupyter. | Python · Computer Vision · ML | _https://github.com/LuisT0/greenvision_ |
-| **Desafío Agua CDMX** | App multipágina en Streamlit con análisis exploratorio sobre consumo de agua y zonas críticas en CDMX. | Python · Streamlit · Visualización | _https://github.com/LuisT0/desafio_agua_cdmx_ |
+- 📈 Analyze and transform data into **actionable insights**
+- 🤖 Build **predictive models** for real-world decision making
+- 📊 Design **interactive dashboards** for technical and non-technical stakeholders
+- 🌍 Apply data science to **social, environmental, and business challenges**
 
 ---
 
-## 📦 Tech Stack
+## 🧠 Core Skills & Tools
 
-**Lenguajes:** Python · SQL  
-**Librerías:** Pandas · NumPy · Scikit-learn · TensorFlow (básico)  
-**Herramientas:** Streamlit · Power BI · Looker Studio  
-**Infraestructura:** FastAPI · Docker  
-**Otros:** Git · Jupyter · Data Storytelling
+**Programming & Data**
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL
+- Exploratory Data Analysis & Feature Engineering
+
+**Visualization & Storytelling**
+- Streamlit
+- Looker Studio / Power BI
+- Matplotlib, Seaborn, Plotly
+
+**Machine Learning**
+- Classification & Regression
+- Model validation & experimentation
+- Intro to causal inference & risk modeling
+
+**Deployment & Workflow**
+- Git & GitHub
+- APIs (FastAPI)
+- Docker (intro)
 
 ---
 
-## 📬 Contacto
+## ⭐ Featured Projects
 
-📧 **luisantoniotv97@hotmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/luis-antonio-torres-villalobos/
-🐙 **GitHub:** https://github.com/LuisT0  
+### 📱 iPhone Review Dashboard
+**Interactive dashboard for analyzing iPhone reviews and market signals**
+
+- Cleaned and analyzed large-scale review data  
+- Built dashboards focused on **user sentiment and product insights**
+- Designed for **business and product decision-making**
+
+🔗 *Repository:* https://github.com/LuisT0  
+*(Dashboard project)*
+
+---
+
+### 🌱 GreenVision — Waste Classification Model
+**Computer vision model for automated waste classification**
+
+- Built and trained a CNN using TensorFlow/Keras  
+- Deployed the model via **FastAPI + Docker**
+- Designed as a scalable tool for waste management scenarios
+
+🔗 *Repository:* https://github.com/LuisT0/greenvision
+
+---
+
+### 💧 Water Challenge — Mexico City
+**Data analysis project focused on water availability and risk in CDMX**
+
+- Exploratory analysis of water-related datasets
+- Identified patterns and risk indicators
+- Framed insights around **public policy and sustainability**
+
+🔗 *Repository:* https://github.com/LuisT0  
+*(Water challenge project)*
+
+---
+
+## 🎯 Background & Experience
+
+- 🎓 **Environmental Sciences (UNAM)**  
+  Specialization in sustainability and life cycle analysis
+
+- 📚 **Data Science Bootcamp (TripleTen)**  
+  Machine learning, statistics, SQL, and end-to-end projects
+
+- 🧪 Experience working with **real datasets**, business problems, and executive-level insights
+
+---
+
+## 🤝 Let’s Connect
+
+I’m currently open to **Data Analyst Jr / Data Scientist Jr** opportunities.
+
+- 💼 LinkedIn: *(add your link here)*
+- 📬 Email: luisantoniotv97@hotmail.com
+
+Thanks for stopping by 👋  
+Feel free to explore my projects or reach out!
 
 ---
 
